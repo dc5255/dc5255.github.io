@@ -8,7 +8,7 @@ url: http://www.dc5255.org
 #url: http://127.0.0.1:4000
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
-baseurl: '/MySite'
+baseurl: '/_v1v4_MX_'
 
 social:
 #  github: dc5255

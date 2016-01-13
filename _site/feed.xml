@@ -3,16 +3,16 @@
 	<channel>
 		<title>DC 5255 MX</title>
 		<description>Somos DC 5255 desde Ciudad de México.</description>
-		<link>http://127.0.0.1:4000/MySite</link>
-		<atom:link href="http://127.0.0.1:4000/MySite/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://www.dc5255.org/_v1v4_MX_</link>
+		<atom:link href="http://www.dc5255.org/_v1v4_MX_/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Primera reunión</title>
 				<description>&lt;p&gt;&lt;strong&gt;loading&lt;/strong&gt;&lt;/p&gt;
 </description>
 				<pubDate>Tue, 12 Jan 2016 19:30:00 -0600</pubDate>
-				<link>http://127.0.0.1:4000/MySite/2016/01/hola-mundo</link>
-				<guid isPermaLink="true">http://127.0.0.1:4000/MySite/2016/01/hola-mundo</guid>
+				<link>http://www.dc5255.org/_v1v4_MX_/2016/01/hola-mundo</link>
+				<guid isPermaLink="true">http://www.dc5255.org/_v1v4_MX_/2016/01/hola-mundo</guid>
 			</item>
 		
 	</channel>
